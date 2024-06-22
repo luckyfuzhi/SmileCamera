@@ -10,7 +10,7 @@
 
 ### 笑脸相机
 
-![笑脸相机](http://nisang1.oss-cn-hangzhou.aliyuncs.com/img/笑脸相机.gif)
+![笑脸相机](https://github.com/luckyfuzhi/SmileCamera/blob/master/%E7%AC%91%E8%84%B8%E7%9B%B8%E6%9C%BA.gif)
 
 ### 系统相机
 
